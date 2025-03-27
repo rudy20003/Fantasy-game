@@ -29,4 +29,3 @@ class EventHandler(tcod.event.EventDispatch[Action]):
         # No valid key was pressed
         return action
     
-    
