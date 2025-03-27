@@ -1,2 +1,2 @@
-# Yet-another-Roguelike
-this is a roguelike game developed entirely in python
+# fantasy game 
+this is a fantasy game developed in python
